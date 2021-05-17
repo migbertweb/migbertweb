@@ -1,8 +1,11 @@
+- 👋 Hola, Yo soy @migbertweb - Migbert Yanez
 - 👋 Hi, I’m @migbertweb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 👀 Estoy interesado en La tecnologia Web en General, programar y probar distintos lenguajes
+de programacion, soy usuario Linux
+- 👀 I’m interested in La tecnologia Web en General, programar y probar distintos lenguajes
+de programacion, soy usuario Linux
+
 
 <!---
 migbertweb/migbertweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
