@@ -1,4 +1,8 @@
-- 👋 Hola, Yo soy @migbertweb - Migbert Yanez
+@migbertweb - Migbert Yanez
+Programador Web
+PHP, html, MySql, Python-Django
+Laravel
+practicando en React y React Native
 - 👋 Hi, I’m @migbertweb
 
 - 👀 Estoy interesado en La tecnologia Web en General, programar y probar distintos lenguajes
