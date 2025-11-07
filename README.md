@@ -32,9 +32,9 @@ Desenvolvedor Full Stack especializado en PHP/Laravel, Python/Django y React, co
 
 ---
 
-## 🌐 Idiomas
+##  Idiomas
 
-- 🇻🇪 Español nativo
+- Español nativo
 - 🇧🇷 Portugués avanzado/fluyente
 - 🇬🇧 Inglés técnico (escritura y lectura docs)
 
