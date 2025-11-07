@@ -1,24 +1,50 @@
-# 💫 About Me:
-👨‍💻 About Me<br>Soy un programador con amplia experiencia en desarrollo de software, apasionado por las tecnologías open-source y la optimización de procesos. Aunque no he tenido un rol fijo en la industria, me he mantenido activo y actualizado, trabajando en proyectos personales que me han permitido adquirir habilidades sólidas en PHP y Laravel, utilizando Livewire para construir interfaces reactivas y dinámicas.<br><br>Mi entorno de trabajo preferido es Linux, y Neovim es mi editor de código, ya que me permite personalizar mi flujo de trabajo para ser más eficiente. He trabajado con Docker para administrar servidores en VPS, y cuento con conocimientos sólidos en MySQL. Además, he explorado el desarrollo frontend con React, lo que me ha dado una visión integral del ciclo de vida de las aplicaciones web.<br><br>Lo que me distingue es mi capacidad para aprender rápidamente nuevas tecnologías y adaptarme a diferentes lenguajes de programación, gracias a una comprensión sólida de los fundamentos de la programación. Estoy siempre en búsqueda de soluciones eficientes, con un enfoque en escribir código limpio y bien documentado.<br><br>Soy venezolano residenciado en Brasil, abierto a oportunidades remotas o presenciales donde pueda aportar mis habilidades y seguir creciendo como desarrollador.
+# 👋 Olá, soy Migbert Yanez Cana
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-migbertyanez-blue?logo=linkedin)](https://linkedin.com/in/migbert-yanez-cana)
+[![Email](https://img.shields.io/badge/E--mail-migbert.yanez@gmail.com-red)](mailto:migbert.yanez@gmail.com)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/migbertyanez) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/migbertweb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migbert-yanez-cana/) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=migbertweb&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=migbertweb&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=migbertweb&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+Desenvolvedor Full Stack especializado en PHP/Laravel, Python/Django y React, con 5+ años de experiencia y formación en Ciência da Computação. Actualmente en Joinville, SC, abierto a oportunidades desafiantes.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=migbertweb&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Skills
+
+- **Backend:** PHP (Laravel), Python (Django)
+- **Frontend:** JavaScript (React)
+- **DevOps:** Docker, Kubernetes, GitHub Actions, VPS Linux (hardening & monitoramento)
+- **Infra:** Experiencia industrial real con operación, calidad y análisis.
+
+---
+
+## 💼 Experiência
+
+- **TODoca C.A.:** APIs, migración a VPS, soporte y alta disponibilidad.
+- **CVG Alcasa:** Gestión de proyectos, análisis técnico y logístico.
+- **Franklin Electric & Tupy S/A (Brasil):** Producción industrial, moldagem, calidad, adaptabilidad.
+
+---
+
+## 🏫 Educación
+
+- **Cs. Computación** – Univ. Bolivariana de Venezuela
+- **Ensino Médio (validação SC/Brasil)**
+- **Curso Profissionalizante – CEDUP/Joinville (en curso)**
+
+---
+
+## 🌐 Idiomas
+
+- 🇻🇪 Español nativo
+- 🇧🇷 Portugués avanzado/fluyente
+- 🇬🇧 Inglés técnico (escritura y lectura docs)
+
+---
+
+## 📌 Proyectos destacados
+
+- **Cluster K3s con Terraform en Hetzner** ([Ver gist explicativo](https://gist.github.com/migbertweb))
+- Integraciones API, mejoras CI/CD, migraciones server
+
+---
+
+¿Hablamos? [migbert.yanez@gmail.com](mailto:migbert.yanez@gmail.com)
