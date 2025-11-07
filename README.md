@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-migbertyanez-blue?logo=linkedin)](https://linkedin.com/in/migbert-yanez-cana)
 [![Email](https://img.shields.io/badge/E--mail-migbert.yanez@gmail.com-red)](mailto:migbert.yanez@gmail.com)
 
-Desenvolvedor Full Stack especializado en PHP/Laravel, Python/Django y React, con 5+ años de experiencia y formación en Ciência da Computação. Actualmente en Joinville, SC, abierto a oportunidades desafiantes.
+Desenvolvedor Full Stack especializado en PHP/Laravel, Python/Django y React, con 12+ años de experiencia y formación en Ciência da Computação. Actualmente en Joinville, SC, abierto a oportunidades desafiantes.
 
 ---
 
