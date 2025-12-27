@@ -7,7 +7,7 @@ Desenvolvedor Full Stack especializado en PHP/Laravel, Python/Django y React, co
 
 ---
 
-## 🚀 Skills
+## :gem: Skills
 
 - **Backend:** PHP (Laravel), Python (Django)
 - **Frontend:** JavaScript (React)
