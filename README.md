@@ -1,4 +1,4 @@
-# nf-fa-briefcase  Olá, soy Migbert Yanez Cana
+# :godmode: Olá, soy Migbert Yanez Cana
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-migbertyanez-blue?logo=linkedin)](https://linkedin.com/in/migbert-yanez-cana)
 [![Email](https://img.shields.io/badge/E--mail-migbert.yanez@gmail.com-red)](mailto:migbert.yanez@gmail.com)
